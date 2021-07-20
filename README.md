@@ -1,4 +1,4 @@
-![Sales_forecast](https://user-images.githubusercontent.com/42385621/126169011-4e680dc3-744a-40e8-a559-1f55a3e9d313.png)
+![Sales_forecast](https://user-images.githubusercontent.com/42385621/126335930-53c49b64-b9f9-49c2-b961-d2184c37e420.png)
 
 # Sales-Forecast
 
