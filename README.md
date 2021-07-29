@@ -3,7 +3,7 @@
 # Sales-Forecast
 
 ### Model to predict the sales implemented with Python.
-### Daraset: company private data
+### Dataset: company private data
 ### Regression algorithm: Random Forest
 <br/>
 <br/>
